@@ -1,0 +1,1 @@
+connect SQL: @"Data Source= "tên server" "  vào các trang
